@@ -81,7 +81,6 @@ export default {
 a.song-link {
     display: flex;
     width: 96%;
-    margin-right: 5px;
     text-decoration: none;
 }
 
