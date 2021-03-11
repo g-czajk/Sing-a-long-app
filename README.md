@@ -11,6 +11,5 @@ Główny cel aplikacji to wyświetlanie i automatyczne scrollowaine tekstu piose
 Zapraszam do testowania! [link](https://sing-a-long.web.app/)
 
 Dane do logowania:\
-\
 login: testuser@testemail.lorem123\
 hasło: Test521!
