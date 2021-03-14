@@ -12,7 +12,7 @@ The main purpose of this app is to display and automatically scroll the song lyr
 
 The app is avaliable for testing under [this link](https://sing-a-long.web.app/). 
 
-Login details:
+Login details:\
 e-mail: testuser@testemail.lorem123\
 password: Test521!
 
