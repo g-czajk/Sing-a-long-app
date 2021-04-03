@@ -1,6 +1,6 @@
 ## "Sing-a-long" app
 
-App made from scratch according to my own idea.
+An app made from scratch according to my own idea.
 
 Frontend - Vue 3 (Composition API).
 
