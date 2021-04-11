@@ -120,7 +120,7 @@ body {
         align-items: center;
         justify-content: center;
         height: 100vh;
-        background-color: rgba(220, 214, 247, 0.7);
+        background-color: rgba(220, 214, 247, 0.3);
     }
 }
 </style>
