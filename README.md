@@ -4,6 +4,8 @@
 e-mail: testuser@testemail.lorem123\
 password: Test521!
 
+***
+
 An app made from scratch according to my own idea.
 
 Frontend - Vue 3 (Composition API).
@@ -21,6 +23,8 @@ The app is avaliable for testing under [this link](https://sing-a-long.web.app/)
 **Dane do logowania**:\
 e-mail: testuser@testemail.lorem123\
 hasło: Test521!
+
+***
 
 Aplikacja stworzona od "0", według własnego pomysłu.
 
