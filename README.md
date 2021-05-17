@@ -1,5 +1,9 @@
 ## "Sing-a-long" app
 
+**Login details**:\
+e-mail: testuser@testemail.lorem123\
+password: Test521!
+
 An app made from scratch according to my own idea.
 
 Frontend - Vue 3 (Composition API).
@@ -12,11 +16,11 @@ The main purpose of this app is to display and automatically scroll the song lyr
 
 The app is avaliable for testing under [this link](https://sing-a-long.web.app/). 
 
-Login details:\
-e-mail: testuser@testemail.lorem123\
-password: Test521!
-
 ## Aplikacja "Sing-a-long"
+
+**Dane do logowania**:\
+e-mail: testuser@testemail.lorem123\
+hasło: Test521!
 
 Aplikacja stworzona od "0", według własnego pomysłu.
 
@@ -29,7 +33,3 @@ UI zaprojektowałem w Figmie (pierwszy kontakt z Figmą).
 Główny cel aplikacji to wyświetlanie i automatyczne scrollowanie tekstu piosenki oraz wstrzmywanie "screen locka". Dzięki temu osoba grająca na instrumencie i przy tym śpiewająca nie musi odrywać się od grania i zajmować ciągłym przewijaniem tekstu i zapobieganiem wygaśnięciu ekranu (problem osób grających i śpiewających jednocześnie, korzystających z tekstów w przeglądarce na komórce).
 
 Aplikację można testować pod [tym linkiem](https://sing-a-long.web.app/).
-
-Dane do logowania:\
-e-mail: testuser@testemail.lorem123\
-hasło: Test521!
